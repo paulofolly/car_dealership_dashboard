@@ -6,4 +6,4 @@ The first dashboard is a sales dashboard with key performance indicators and the
 
 The second dashboard analyzes the key characteristics of leads visiting our e-commerce, helping us define our ideal customer profile (ICP). It provides demographic information such as gender, professional status, age range, and salary range. Additionally, it includes information about the products they are searching for, such as whether they are interested in new or used vehicles, the age of the vehicle, and the top-selling models. This dashboard enables us to gain insights into our target audience and tailor our marketing strategies accordingly.
 
-Both dashboards can be accessed at the following link: https://lookerstudio.google.com/s/iJrKDqJrIJ0
+Both dashboards can be accessed at the following link: https://lookerstudio.google.com/s/myuAofNeZxU
